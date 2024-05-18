@@ -1,6 +1,7 @@
 ![logo](https://github.com/Tanmayshah89/Tanmayshah89/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Tanmay Shah</h1>
 <h3 align="center">A passionate software developer from India</h3>
+<img align="right" width="400" alt="don't rush" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm8wODZjazNidzAzN3I2OHlvM292NDJmYjV4OHp6Ym0yc3BtZnlvZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0lGd2OXXHe4tFhb7Wh/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmayshah89&label=Profile%20views&color=0e75b6&style=flat" alt="tanmayshah89" /> </p>
 
