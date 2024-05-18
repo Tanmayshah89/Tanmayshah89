@@ -1,3 +1,4 @@
+![logo](https://github.com/Tanmayshah89/Tanmayshah89/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Tanmay Shah</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
